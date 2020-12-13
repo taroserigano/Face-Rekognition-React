@@ -20,8 +20,8 @@ A full-fledged app with user registration and login system. Frontend built with 
 <p><strong><a href="https://face-rekognitionz.herokuapp.com/">
 Click here for Live demo</a></strong>
 </p>
-<img src="./pics/taylor.jpg"/>
-<img src="./pics/ぎｒｌ.jpg"/>
+<img src="./pics/taylor1.jpg"/>
+<img src="./pics/girl.jpg"/>
 </div>
 
 ## 📕 How to Use the App
