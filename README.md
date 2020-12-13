@@ -17,10 +17,10 @@ A face recognition app that uses the Clarifai API to detect and locate a human f
 A full-fledged app with user registration and login system. Frontend built with React.js, backend server and APIs with Node.js & Express.js, and PostgresSQL as database to keep track of how many entries a user has made. Deployed on Heroku.
 
 </p>
-<p><strong><a href="https://smart-brain-claire.herokuapp.com/">
+<p><strong><a href="https://face-rekognitionz.herokuapp.com/">
 Click here for Live demo</a></strong>
 </p>
-<img src="./src/assets/demo.gif"/>
+<img src="./pics/taylor.jpg"/>
 </div>
 
 ## 📕 How to Use the App
@@ -42,7 +42,7 @@ From your command line, first clone the project:
 ### Clone this repository
 
 ```zsh
-$ git clone https://github.com/clairepeng0808/smart-brain-app
+$ https://github.com/taroserigano/Face-Rekognition-React.git
 
 Go into the repository
 $ cd smart-brain-app
@@ -63,33 +63,7 @@ $ npm run dev
 
 After installation, open [http://localhost:3000](http://localhost:3000), or if you are running both frontend and the backend, you can run it on [http://localhost:3001](http://localhost:3000) to view it in the browser.
 
-Clone the [backend repo here](https://github.com/clairepeng0808/smart-brain-api)
 
-### Changed the API URLs
-
-Original
-
-```zsh
-fetch("https://radiant-forest-01776.herokuapp.com/imageurl", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        input: this.state.input,
-      }),
-    })
-```
-
-If your backend is running on port 3000, changed your code to:
-
-```zsh
-fetch("http://localhost:3000/imageurl", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        input: this.state.input,
-      }),
-    })
-```
 
 ### New Build
 
