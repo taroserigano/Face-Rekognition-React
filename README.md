@@ -1,13 +1,13 @@
 # Face-Rekognition-React
 
-<div align='center'><img src="./src/assets/banner.png"/></div>
+<div align='center'><img src="./pics/front.jpg"/></div>
 
 # <div align='center'>💡 Smart Brain App</div>
 
 <div align='center'>
 <p>
     <img src="https://www.herokucdn.com/deploy/button.svg"/><p>
-    <a href="https://face-rekognition-eu.herokuapp.com/"><img src="https://img.shields.io/website?down_color=grey&down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fsmart-brain-claire.herokuapp.com%2F"/></a>
+    <a href="https://face-rekognitionz.herokuapp.com/"><img src="https://img.shields.io/website?down_color=grey&down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fsmart-brain-claire.herokuapp.com%2F"/></a>
     <img src="https://img.shields.io/npm/v/react?label=react&style=flat-square&color=9cf"/>
 
 </p>
