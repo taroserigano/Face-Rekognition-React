@@ -21,6 +21,7 @@ A full-fledged app with user registration and login system. Frontend built with 
 Click here for Live demo</a></strong>
 </p>
 <img src="./pics/taylor.jpg"/>
+<img src="./pics/ぎｒｌ.jpg"/>
 </div>
 
 ## 📕 How to Use the App
