@@ -1,4 +1,5 @@
 # Face-Rekognition-React
+React + Postgre SQL + Database + Node.js + Express.js + JavaScript
 
 <div align='center'><img src="./pics/front.jpg"/></div>
 
