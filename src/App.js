@@ -76,6 +76,7 @@ class App extends Component {
 
   onButtonSubmit = () => {
     this.setState({imageUrl: this.state.input});
+    //basically sends url to predict in Clarifai for recognition 
       fetch('https://quiet-reaches-77244.herokuapp.com/imageurl', {
         method: 'post',
         headers: {'Content-Type': 'application/json'},
@@ -85,6 +86,7 @@ class App extends Component {
       })
       .then(response => response.json())
       .then(response => {
+        //only put and update the count basically 
         if (response) {
           fetch('https://quiet-reaches-77244.herokuapp.com/image', {
             method: 'put',
